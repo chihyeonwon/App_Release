@@ -71,3 +71,9 @@ android 블록 안에도 코드를 추가합니다.
 ### android/app/build.gradle (android 블록 내)
 ![image](https://user-images.githubusercontent.com/58906858/219280640-d75aa9c7-9bf6-42cc-bdcb-acdb2cb2f98e.png)
 
+## 앱 이름 설정하기
+```
+출시할 앱의 이름을 설정할 차례입니다. android/app/src/main/AndroidManifest.xml 파일의 android:label 값을
+원하는 앱 이름으로 변경해줍니다. 앱 이름을 원주대 등교로 설정하였습니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/219280977-71d463b5-dede-4c47-a2f2-212c3c92c3f9.png)
