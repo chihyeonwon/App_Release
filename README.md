@@ -77,3 +77,11 @@ android 블록 안에도 코드를 추가합니다.
 원하는 앱 이름으로 변경해줍니다. 앱 이름을 원주대 등교로 설정하였습니다.
 ```
 ![image](https://user-images.githubusercontent.com/58906858/219280977-71d463b5-dede-4c47-a2f2-212c3c92c3f9.png)
+
+## 앱 번들 생성하기
+```
+앱 번들은 앱을 플레이 스토어에 업로드할 수 있는 형태로 하나의 파일로 플러터 앱이 포장됩니다.
+flutter build appbundle 명령어를 실행하여 앱 번들을 생성합니다.
+파일의 경로는 build/app/outputs/bundle/release에 있습니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/219284881-cae287dd-be46-4525-88ce-19979040895d.png)
