@@ -28,3 +28,24 @@ flutter pub run change_app_package_name:main {Bundle ID 입력} Bundle ID에 com
 ```
 ![image](https://user-images.githubusercontent.com/58906858/219274689-66a6c77a-efec-45a2-8b28-301aca6a9826.png)
 ![image](https://user-images.githubusercontent.com/58906858/219275097-72cb5047-e98d-411f-8fd0-b95fd482daa8.png)
+
+### STEP2 업로드 키 생성
+[JAVA 설치](https://www.java.com/ko/download)
+```
+업로드 키를 생성하려면 먼저 JAVA를 설치합니다. flutter doctor -v 명령을 실행해서
+Java binary at에 보이는 경로 끝에 있는 java를 keytool로 변경하고 PATH에 경로를 추가합니다.
+
+윈도우에서 업로드키를 생성하는 명령어를 입력해줍니다.
+keytool -genkey -v -keystore ./upload-keystore.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias upload
+
+현재 위치에 upload-keystore.jks 파일이 생성됩니다.
+```
+### [flutter doctor -v 실행]
+![image](https://user-images.githubusercontent.com/58906858/219276631-abf7c21e-e8ec-4869-a6be-6c8a75a2548e.png)
+
+### [환경 변수 PATH에 경로 추가]
+![image](https://user-images.githubusercontent.com/58906858/219276814-e7d67309-c451-45d1-8a5d-49c5d76bf345.png)
+
+### 윈도우에서 업로드 키 생성
+![image](https://user-images.githubusercontent.com/58906858/219279287-2b2ebe56-2e46-47b5-98ef-86f1d25c9479.png)
+
