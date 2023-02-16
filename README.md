@@ -49,3 +49,25 @@ keytool -genkey -v -keystore ./upload-keystore.jks -storetype JKS -keyalg RSA -k
 ### 윈도우에서 업로드 키 생성
 ![image](https://user-images.githubusercontent.com/58906858/219279287-2b2ebe56-2e46-47b5-98ef-86f1d25c9479.png)
 
+### 업로드 키 설정
+```
+android 폴더에 key.properties 파일을 생성한 후
+storePassword=<키를 생성할 때 입력한 비밀번호>
+keyPassword=<키를 생성할 때 입력한 비밀번호>
+keyAlias=upload
+storeFile=<키 파일의 위치>
+를 넣어줍니다.
+
+key.properties 파일을 android/app/build.gradle 파일에 설정해주어야 합니다.
+android 블록 바로 위에 다음 코드를 추가합니다.
+android 블록 안에도 코드를 추가합니다.
+```
+### android/key.properties
+![image](https://user-images.githubusercontent.com/58906858/219279792-63c8ddd3-263e-4206-b0b9-ff2575bf381b.png)
+
+### android/app/build.gradle (android 블록 위)
+![image](https://user-images.githubusercontent.com/58906858/219280191-720f1395-fc58-4ca3-bb20-c6db17f80de5.png)
+
+### android/app/build.gradle (android 블록 내)
+![image](https://user-images.githubusercontent.com/58906858/219280640-d75aa9c7-9bf6-42cc-bdcb-acdb2cb2f98e.png)
+
