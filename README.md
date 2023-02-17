@@ -121,3 +121,10 @@ flutter build appbundle 명령어를 실행하여 앱 번들을 생성합니다.
 ```
 ![image](https://user-images.githubusercontent.com/58906858/219532709-ad971db2-d6d6-4e62-83c4-0a23a70551b6.png)
 
+## 콘텐츠 등급
+```
+이메일 주소, 카테고리 등 간단한설문에 대한 응답을 진행하고 앱의 폭력성과 아동 보호를 위한
+설문에 대한 응답을 합니다. 응답이 끝나면 나라별로 콘텐츠 등급 결과지가 나오게 됩니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/219533371-f74fd39a-83a4-447e-8cfd-d21439d50839.png)   
+![image](https://user-images.githubusercontent.com/58906858/219533812-18fd9531-6ef9-45f5-a5ac-20c91ec65cce.png)
