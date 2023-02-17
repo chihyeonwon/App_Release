@@ -85,3 +85,11 @@ flutter build appbundle 명령어를 실행하여 앱 번들을 생성합니다.
 파일의 경로는 build/app/outputs/bundle/release에 있습니다.
 ```
 ![image](https://user-images.githubusercontent.com/58906858/219284881-cae287dd-be46-4525-88ce-19979040895d.png)
+
+## 구글 플레이 스토에 앱 등록하기
+[구글 플레이 스토어 콘솔]()
+```
+콘솔 대시보드에서 앱 이름, 국가 설정 등 간단한 설정을 마치면
+12개 정도의 앱 관련 설정이 있다. 하나 하나씩 해보면서 정리해보기로 했다..
+```
+![image](https://user-images.githubusercontent.com/58906858/219526172-3e4e23f9-1278-47d6-ad8c-f955dc013c37.png)
