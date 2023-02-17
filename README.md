@@ -106,5 +106,18 @@ flutter build appbundle 명령어를 실행하여 앱 번들을 생성합니다.
 ![image](https://user-images.githubusercontent.com/58906858/219529177-73444869-0a04-460b-b3c7-7675eca4f9f0.png)
 ![image](https://user-images.githubusercontent.com/58906858/219529461-370cf81e-eaaa-4692-855b-1e118ed2a522.png)
 
+## 앱 엑세스 권한
+```
+제한된 액세스의 예를 보여주고 있다.
+사용자 이름 및 비밀번호, 2단계 인증, 위치 기반 액세스, 멤버십 및 정기 결제, 다른 기기에서 실행해야 하는 작업
+이 중에 내가 개발한 앱은 google map 라이브러리의 위치 정보를 받아는 오지만
+앱에서 일반적으로 위치 기반 비밀번호(예: 지오게이트)를 사용하는 경우는 아니기에 엑세스 제한이 없음을 체크하였다.
+```
+![image](https://user-images.githubusercontent.com/58906858/219530994-d91b1ce3-f335-416b-a417-48a142553a68.png)
 
+## 광고
+```
+광고 역시도 애드몹이나 내부에 광고가 없기 때문에 광고가 없습니다.를 체크하였습니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/219532709-ad971db2-d6d6-4e62-83c4-0a23a70551b6.png)
 
