@@ -136,3 +136,8 @@ flutter build appbundle 명령어를 실행하여 앱 번들을 생성합니다.
 ```
 ![image](https://user-images.githubusercontent.com/58906858/219534276-8081dcf6-5248-4fa2-8daa-3b8b0cd1d2a3.png)
 
+## 뉴스앱
+```
+뉴스 앱인지 아닌지를 물어봅니다. 뉴스 앱은 아니기에 아니오를 선택하고 저장하였습니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/219534617-cb494ec5-d24b-471d-a2d4-57922dd9f76f.png)
