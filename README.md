@@ -141,3 +141,10 @@ flutter build appbundle 명령어를 실행하여 앱 번들을 생성합니다.
 뉴스 앱인지 아닌지를 물어봅니다. 뉴스 앱은 아니기에 아니오를 선택하고 저장하였습니다.
 ```
 ![image](https://user-images.githubusercontent.com/58906858/219534617-cb494ec5-d24b-471d-a2d4-57922dd9f76f.png)
+
+## 코로나19 접촉자 추적 앱 및 이력 앱
+```
+Google에서 앱이 코로나19 접촉자 추적 앱 또는 이력 앱인지 파악할 수 있도록 정보를 주어야 합니다.
+백신 관련, 바이러스 감염자 추적 등에 관한 앱이 아니기에 해당없음을 선택하고 저장하였습니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/219534860-cd435213-6e88-4a74-9c1f-9149b0eb8f94.png)
