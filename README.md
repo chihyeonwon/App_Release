@@ -87,9 +87,24 @@ flutter build appbundle 명령어를 실행하여 앱 번들을 생성합니다.
 ![image](https://user-images.githubusercontent.com/58906858/219284881-cae287dd-be46-4525-88ce-19979040895d.png)
 
 ## 구글 플레이 스토에 앱 등록하기
-[구글 플레이 스토어 콘솔]()
+[구글 플레이 스토어 콘솔](https://play.google.com/console/)
 ```
 콘솔 대시보드에서 앱 이름, 국가 설정 등 간단한 설정을 마치면
 12개 정도의 앱 관련 설정이 있다. 하나 하나씩 해보면서 정리해보기로 했다..
 ```
 ![image](https://user-images.githubusercontent.com/58906858/219526172-3e4e23f9-1278-47d6-ad8c-f955dc013c37.png)
+
+## 개인정보처리방침
+[개인정보처리방침 생성 사이트](https://app-privacy-policy-generator.nisrulz.com/)   
+[wonjuculcheck 앱 개인정보처리방침](https://github.com/chihyeonWON/policy-wonjuchulcheck/blob/main/README.md)
+```
+개인정보처리방침(Privacy Policy) 웹 페이지의 url을 입력하라고 하는데 개인정보처리방침을
+만들어 주는 사이트가 여럿 있는 데 그 중에서도 privacy policy genereate 사이트에서 
+간단하게 생성할 수가 있다. 마크다운으로 복사해서 깃허브에 올린 다음 깃허브의 url을 붙여넣었다.
+```
+![image](https://user-images.githubusercontent.com/58906858/219527362-58f9d1e1-9333-4104-bcef-50ffb535a08f.png)   
+![image](https://user-images.githubusercontent.com/58906858/219529177-73444869-0a04-460b-b3c7-7675eca4f9f0.png)
+![image](https://user-images.githubusercontent.com/58906858/219529461-370cf81e-eaaa-4692-855b-1e118ed2a522.png)
+
+
+
