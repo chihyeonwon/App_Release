@@ -178,3 +178,14 @@ Google에서 앱이 코로나19 접촉자 추적 앱 또는 이력 앱인지 파
 앱 이름, 아이콘, 스크린샷 등을 수정하여 앱이 Google Play에서 사용자에게 어떻게 표시되는지 설명합니다.
 ```
 ![image](https://user-images.githubusercontent.com/58906858/219537026-a7a21111-a3d0-44cf-b0e0-0c5186c70c2b.png)
+
+## 프로덕션 만들기
+```
+앱 설정이 끝이나면 프로덕션 만들기 페이지에서 내가 만든 릴리즈용 앱 번들을 올려주어야 합니다.
+먼저 국가 설정에서 모든 국가를 추가해줍니다.
+C:\src\AttendanceCheck\build\app\outputs\bundle\release 경로로 가면 앱 번들이 있고 드래그 앤 드랍하여 올려주었습니다.
+```
+### [프로덕션 출시 국가 설정]
+![image](https://user-images.githubusercontent.com/58906858/219541212-fb333155-d49e-4041-af3d-df94c6243db2.png)   
+![image](https://user-images.githubusercontent.com/58906858/219540600-b33c4ff2-da88-44a2-9e74-c797cdab4234.png)   
+![image](https://user-images.githubusercontent.com/58906858/219540580-f04ba468-9883-4bd4-9d3b-074aa7146fe5.png)
