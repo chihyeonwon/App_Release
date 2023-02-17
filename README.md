@@ -189,3 +189,13 @@ C:\src\AttendanceCheck\build\app\outputs\bundle\release 경로로 가면 앱 번
 ![image](https://user-images.githubusercontent.com/58906858/219541212-fb333155-d49e-4041-af3d-df94c6243db2.png)   
 ![image](https://user-images.githubusercontent.com/58906858/219540600-b33c4ff2-da88-44a2-9e74-c797cdab4234.png)   
 ![image](https://user-images.githubusercontent.com/58906858/219540580-f04ba468-9883-4bd4-9d3b-074aa7146fe5.png)
+
+### 앱 출시 및 프로젝트 종료
+```
+프로덕션 설정까지 모두 마치면 일주일 정도 구글 팀에서 앱을 검토한 후에 앱이 출시할 조건을 모두 갖추었다고
+판단하면 구글 플레이스토어에 앱이 올라가게 됩니다.
+
+원주대 등교 앱 출시까지의 과정을 정리하였습니다.
+전에 어플을 한번 출시한 경험이 있었지만 출시 과정을 한번 더 정리하면서 출시 과정을 확실하게 알게된 것 같습니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/219541630-15cef7b8-4fad-4065-8930-3f594acf4295.png)
