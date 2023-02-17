@@ -172,3 +172,9 @@ Google에서 앱이 코로나19 접촉자 추적 앱 또는 이력 앱인지 파
 외부 마케팅은 체크하고 저장하였습니다.
 ```
 ![image](https://user-images.githubusercontent.com/58906858/219536722-8c05273c-cd04-4de6-9d25-ca12eec27356.png)
+
+## 기본 스터오 등록정보
+```
+앱 이름, 아이콘, 스크린샷 등을 수정하여 앱이 Google Play에서 사용자에게 어떻게 표시되는지 설명합니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/219537026-a7a21111-a3d0-44cf-b0e0-0c5186c70c2b.png)
