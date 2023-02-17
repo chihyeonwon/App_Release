@@ -159,3 +159,9 @@ Google에서 앱이 코로나19 접촉자 추적 앱 또는 이력 앱인지 파
 선택할 수 있게 하였다라고 설정하고 저장하였습니다.
 ```
 ![image](https://user-images.githubusercontent.com/58906858/219535092-e2c582f1-f1d7-4ddc-bd51-0941703c7733.png)
+
+## 정부 앱
+```
+공공기관이나 정부를 대신해서 개발한 프로젝트가 아니기에 아니오라고 저장하였습니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/219535878-2aa058b9-34eb-4fa6-91e4-3613ad3cf266.png)
