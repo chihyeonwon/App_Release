@@ -128,3 +128,11 @@ flutter build appbundle 명령어를 실행하여 앱 번들을 생성합니다.
 ```
 ![image](https://user-images.githubusercontent.com/58906858/219533371-f74fd39a-83a4-447e-8cfd-d21439d50839.png)   
 ![image](https://user-images.githubusercontent.com/58906858/219533812-18fd9531-6ef9-45f5-a5ac-20c91ec65cce.png)
+
+## 타겟층
+```
+앱이 주로 사용될 거 같은 연령대를 고르는 페이지인데 아무래도 대학생이 쓰다보니까
+18세 이상 성인을 체크하고 어린이의 관심을 끄지는 않습니다를 체크하고 저장하였습니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/219534276-8081dcf6-5248-4fa2-8daa-3b8b0cd1d2a3.png)
+
