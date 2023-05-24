@@ -1,5 +1,6 @@
 # App_Release
 구글 플레이스토어 플러터 앱 출시 과정 정리
+(패키지명 변경, 아이콘 변경)[https://itwise.tistory.com/47]
 
 
 ## 원주대 등교 앱 출시 개요
